@@ -1,11 +1,11 @@
 Summary:	Python framework for Unix-like command line programs
 Name:		python-tracing
-Version:	0.7
+Version:	0.8
 Release:	1
 License:	GPL v3
 Group:		Libraries/Python
 Source0:	http://code.liw.fi/debian/pool/main/p/python-tracing/%{name}_%{version}.orig.tar.gz
-# Source0-md5:	8cf0dc6cb6db5863ac10b3c298cedd1c
+# Source0-md5:	9f449746b2ae19ca62bca5363ae0b432
 URL:		http://liw.fi/cliapp/
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
